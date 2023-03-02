@@ -1,0 +1,33 @@
+Privacy Policy for Kinoto Scripting Utility
+
+At Kinoto, we take your privacy seriously. This Privacy Policy outlines the types of data we collect and how we use it when you use Kinoto Scripting Utility.
+
+Information We Collect
+
+When you use Kinoto Scripting Utility, we may collect certain information from you, including:
+
+Installation data: We may collect information about your installation of Kinoto Scripting Utility, including the version number, date of installation, and any associated user preferences.
+Injection data: We may collect information about any scripts you inject using Kinoto Scripting Utility, including the script name, date of injection, and any associated user preferences.
+Error data: We may collect information about any errors or crashes you experience while using Kinoto Scripting Utility, including the date and time of the error, the type of error, and any associated user preferences.
+How We Use Your Information
+
+We use the information we collect from you to improve the quality and reliability of Kinoto Scripting Utility. Specifically, we use your information to:
+
+Troubleshoot errors and crashes: We use error data to identify and resolve any issues with Kinoto Scripting Utility.
+Improve performance: We use installation and injection data to identify performance issues and make improvements to Kinoto Scripting Utility.
+Develop new features: We use data from all sources to inform our decisions about new features and improvements to Kinoto Scripting Utility.
+How We Share Your Information
+
+We do not share your personal information with third parties. However, we may share aggregated and anonymized data with third parties for research or marketing purposes.
+
+Security
+
+We take appropriate measures to protect your data from unauthorized access, alteration, or disclosure. We use industry-standard security measures, including encryption and access controls, to protect your data.
+
+Changes to this Policy
+
+We may update this Privacy Policy from time to time. If we make any material changes to this policy, we will notify you by email or by posting a notice on our website.
+
+Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our practices, please contact us at info@kinoto.xyz
