@@ -18,7 +18,7 @@ Improve performance: We use installation and injection data to identify performa
 Develop new features: We use data from all sources to inform our decisions about new features and improvements to Kinoto Scripting Utility.
 How We Share Your Information
 
-We do not share your personal information with third parties. However, we may share aggregated and anonymized data with third parties for research or marketing purposes.
+We do not share your personal information with third parties.
 
 Security
 
